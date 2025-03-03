@@ -1,0 +1,39 @@
+input, select, button{
+    padding: 10px;
+    margin: 5px;
+}
+form{
+   background: #7b777765;
+   padding: 20px;
+   border-radius: 8px;
+   width: 100%;
+   max-width: 400px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: #0999;
+
+}
+ label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: blue;
+ }
+ .btn-submit{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #673AB7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+
+ }
+ .btn-submit{
+    margin-right: 10px;
+ }
