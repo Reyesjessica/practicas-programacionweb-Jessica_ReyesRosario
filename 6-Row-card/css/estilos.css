@@ -1,7 +1,47 @@
-.basic-button-p{
+.long-button{
+    padding: 10px 50px;
     font-size: 16px;
-    background-color: #ddda12;
+    background-color:  #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.basic-button-{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #8dc98f;
     color: white;
     border: none;
     cursor: pointer;
+}
+.icon-button{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+.icon-button i {
+margin-right: 10px;
+}
+
+.icon-button1{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #00ba1c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+.icon-button i {
+margin-right: 10px;
 }
